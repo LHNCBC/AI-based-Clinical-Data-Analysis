@@ -1,1 +1,5 @@
-temp
+Data Sources
+The original data presented in this study are openly available. 
+The LAG dataset is available at GitHub (https://github.com/smilell/AG-CNN?tab=readme-ov-file). 
+The EyePACS dataset is available via Kaggle (https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light). 
+The BrG dataset is available via Kaggle (https://www.kaggle.com/datasets/clerimar/brasil-glaucoma-brg).
